@@ -1,7 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f20ddc6e-a639-43b2-b599-55a3363dba19" name="Default" comment="" />
+    <list default="true" id="f20ddc6e-a639-43b2-b599-55a3363dba19" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bhuggins8-analysis.pdf" afterPath="$PROJECT_DIR$/bhuggins8-analysis.pdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-0-vs-1-reduction.png" afterPath="$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-0-vs-1-reduction.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-n_components-2-0-vs-1.png" afterPath="$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-n_components-2-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-n_components-3-0-vs-1.png" afterPath="$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-n_components-3-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-n_components-4-0-vs-1.png" afterPath="$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-n_components-4-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-n_components-5-0-vs-1.png" afterPath="$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-n_components-5-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-n_components-6-0-vs-1.png" afterPath="$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-n_components-6-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-reg_covar-1e-06-0-vs-1.png" afterPath="$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-reg_covar-1e-06-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-reg_covar-1e-07-0-vs-1.png" afterPath="$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-reg_covar-1e-07-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-reg_covar-2e-07-0-vs-1.png" afterPath="$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-reg_covar-2e-07-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-reg_covar-3e-07-0-vs-1.png" afterPath="$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-reg_covar-3e-07-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-reg_covar-4e-07-0-vs-1.png" afterPath="$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-reg_covar-4e-07-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-reg_covar-5e-07-0-vs-1.png" afterPath="$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-reg_covar-5e-07-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-reg_covar-6e-07-0-vs-1.png" afterPath="$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-reg_covar-6e-07-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-reg_covar-7e-07-0-vs-1.png" afterPath="$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-reg_covar-7e-07-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-reg_covar-8e-07-0-vs-1.png" afterPath="$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-reg_covar-8e-07-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-reg_covar-9e-07-0-vs-1.png" afterPath="$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-reg_covar-9e-07-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ANY-KMeans-0-vs-1.png" afterPath="$PROJECT_DIR$/divorce_observations/ANY-KMeans-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/FastICA-0-vs-1-reduction.png" afterPath="$PROJECT_DIR$/divorce_observations/FastICA-0-vs-1-reduction.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/FastICA-0-vs-2-reduction.png" afterPath="$PROJECT_DIR$/divorce_observations/FastICA-0-vs-2-reduction.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/FastICA-1-vs-2-reduction.png" afterPath="$PROJECT_DIR$/divorce_observations/FastICA-1-vs-2-reduction.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/FeatureAgglomeration-0-vs-1-reduction.png" afterPath="$PROJECT_DIR$/divorce_observations/FeatureAgglomeration-0-vs-1-reduction.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/GaussianMixture-0-vs-1-reduction.png" afterPath="$PROJECT_DIR$/divorce_observations/GaussianMixture-0-vs-1-reduction.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/GaussianMixture-0-vs-2-reduction.png" afterPath="$PROJECT_DIR$/divorce_observations/GaussianMixture-0-vs-2-reduction.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/GaussianMixture-0-vs-3-reduction.png" afterPath="$PROJECT_DIR$/divorce_observations/GaussianMixture-0-vs-3-reduction.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-4-OCCP-vs-PINCP.png" afterPath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-4-OCCP-vs-PINCP.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-4-SCHL-vs-PINCP.png" afterPath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-4-SCHL-vs-PINCP.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-4-SEX-vs-OCCP.png" afterPath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-4-SEX-vs-OCCP.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-4-SEX-vs-PINCP.png" afterPath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-4-SEX-vs-PINCP.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-4-SEX-vs-SCHL.png" afterPath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-4-SEX-vs-SCHL.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-5-OCCP-vs-PINCP.png" afterPath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-5-OCCP-vs-PINCP.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-5-SCHL-vs-OCCP.png" afterPath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-5-SCHL-vs-OCCP.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-5-SCHL-vs-PINCP.png" afterPath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-5-SCHL-vs-PINCP.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-5-SEX-vs-OCCP.png" afterPath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-5-SEX-vs-OCCP.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-5-SEX-vs-PINCP.png" afterPath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-5-SEX-vs-PINCP.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-5-SEX-vs-SCHL.png" afterPath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-5-SEX-vs-SCHL.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-6-OCCP-vs-PINCP.png" afterPath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-6-OCCP-vs-PINCP.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-6-SCHL-vs-OCCP.png" afterPath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-6-SCHL-vs-OCCP.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-6-SCHL-vs-PINCP.png" afterPath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-6-SCHL-vs-PINCP.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-6-SEX-vs-OCCP.png" afterPath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-6-SEX-vs-OCCP.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-6-SEX-vs-PINCP.png" afterPath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-6-SEX-vs-PINCP.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-6-SEX-vs-SCHL.png" afterPath="$PROJECT_DIR$/divorce_observations/GaussianMixture-n_components-6-SEX-vs-SCHL.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-0-vs-1-reduction.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-0-vs-1-reduction.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-0-vs-2-reduction.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-0-vs-2-reduction.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-2-0-vs-1.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-2-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-2-0-vs-2.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-2-0-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-2-1-vs-2.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-2-1-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-3-0-vs-1.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-3-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-3-0-vs-2.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-3-0-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-3-1-vs-2.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-3-1-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-4-0-vs-1.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-4-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-4-0-vs-2.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-4-0-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-4-1-vs-2.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-4-1-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-5-0-vs-1.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-5-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-5-0-vs-2.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-5-0-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-5-1-vs-2.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-5-1-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-6-0-vs-1.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-6-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-6-0-vs-2.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-6-0-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-6-1-vs-2.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-6-1-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-1e-06-0-vs-1.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-1e-06-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-1e-06-0-vs-2.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-1e-06-0-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-1e-06-1-vs-2.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-1e-06-1-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-1e-07-0-vs-1.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-1e-07-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-1e-07-0-vs-2.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-1e-07-0-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-1e-07-1-vs-2.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-1e-07-1-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-2e-07-0-vs-1.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-2e-07-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-2e-07-0-vs-2.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-2e-07-0-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-2e-07-1-vs-2.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-2e-07-1-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-3e-07-0-vs-1.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-3e-07-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-3e-07-0-vs-2.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-3e-07-0-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-3e-07-1-vs-2.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-3e-07-1-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-4e-07-0-vs-1.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-4e-07-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-4e-07-0-vs-2.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-4e-07-0-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-4e-07-1-vs-2.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-4e-07-1-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-5e-07-0-vs-1.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-5e-07-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-5e-07-0-vs-2.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-5e-07-0-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-5e-07-1-vs-2.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-5e-07-1-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-6e-07-0-vs-1.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-6e-07-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-6e-07-0-vs-2.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-6e-07-0-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-6e-07-1-vs-2.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-6e-07-1-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-7e-07-0-vs-1.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-7e-07-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-7e-07-0-vs-2.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-7e-07-0-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-7e-07-1-vs-2.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-7e-07-1-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-8e-07-0-vs-1.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-8e-07-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-8e-07-0-vs-2.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-8e-07-0-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-8e-07-1-vs-2.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-8e-07-1-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-9e-07-0-vs-1.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-9e-07-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-9e-07-0-vs-2.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-9e-07-0-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-9e-07-1-vs-2.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-reg_covar-9e-07-1-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-KMeans-0-vs-1.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-KMeans-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-KMeans-0-vs-2.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-KMeans-0-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divorce_observations/ICA-KMeans-1-vs-2.png" afterPath="$PROJECT_DIR$/divorce_observations/ICA-KMeans-1-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lendingclub_observations/FastICA-0-vs-1-reduction.png" afterPath="$PROJECT_DIR$/lendingclub_observations/FastICA-0-vs-1-reduction.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lendingclub_observations/GaussianRandomProjection-0-vs-1-reduction.png" afterPath="$PROJECT_DIR$/lendingclub_observations/GaussianRandomProjection-0-vs-1-reduction.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lendingclub_observations/GaussianRandomProjection-0-vs-2-reduction.png" afterPath="$PROJECT_DIR$/lendingclub_observations/GaussianRandomProjection-0-vs-2-reduction.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lendingclub_observations/GaussianRandomProjection-0-vs-3-reduction.png" afterPath="$PROJECT_DIR$/lendingclub_observations/GaussianRandomProjection-0-vs-3-reduction.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lendingclub_observations/GaussianRandomProjection-1-vs-2-reduction.png" afterPath="$PROJECT_DIR$/lendingclub_observations/GaussianRandomProjection-1-vs-2-reduction.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lendingclub_observations/GaussianRandomProjection-1-vs-3-reduction.png" afterPath="$PROJECT_DIR$/lendingclub_observations/GaussianRandomProjection-1-vs-3-reduction.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lendingclub_observations/GaussianRandomProjection-2-vs-3-reduction.png" afterPath="$PROJECT_DIR$/lendingclub_observations/GaussianRandomProjection-2-vs-3-reduction.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lendingclub_observations/ICA-KMeans-0-vs-1.png" afterPath="$PROJECT_DIR$/lendingclub_observations/ICA-KMeans-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lendingclub_observations/RCA-EM-MLPClassifier-random_state.png" afterPath="$PROJECT_DIR$/lendingclub_observations/RCA-EM-MLPClassifier-random_state.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lendingclub_observations/RCA-KMEANS-MLPClassifier-random_state.png" afterPath="$PROJECT_DIR$/lendingclub_observations/RCA-KMEANS-MLPClassifier-random_state.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lendingclub_observations/RCA-KMeans-0-vs-1.png" afterPath="$PROJECT_DIR$/lendingclub_observations/RCA-KMeans-0-vs-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lendingclub_observations/RCA-KMeans-0-vs-2.png" afterPath="$PROJECT_DIR$/lendingclub_observations/RCA-KMeans-0-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lendingclub_observations/RCA-KMeans-0-vs-3.png" afterPath="$PROJECT_DIR$/lendingclub_observations/RCA-KMeans-0-vs-3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lendingclub_observations/RCA-KMeans-1-vs-2.png" afterPath="$PROJECT_DIR$/lendingclub_observations/RCA-KMeans-1-vs-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lendingclub_observations/RCA-KMeans-1-vs-3.png" afterPath="$PROJECT_DIR$/lendingclub_observations/RCA-KMeans-1-vs-3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lendingclub_observations/RCA-KMeans-2-vs-3.png" afterPath="$PROJECT_DIR$/lendingclub_observations/RCA-KMeans-2-vs-3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lendingclub_observations/RCA-MLPClassifier-random_state.png" afterPath="$PROJECT_DIR$/lendingclub_observations/RCA-MLPClassifier-random_state.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/best_attributes/convergence.pkl" afterPath="$PROJECT_DIR$/best_attributes/convergence.pkl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/best_attributes/divorce_observations-FastICA.pkl" afterPath="$PROJECT_DIR$/best_attributes/divorce_observations-FastICA.pkl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/best_attributes/divorce_observations-FeatureAgglomeration.pkl" afterPath="$PROJECT_DIR$/best_attributes/divorce_observations-FeatureAgglomeration.pkl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/best_attributes/divorce_observations-GaussianMixture-ANY.pkl" afterPath="$PROJECT_DIR$/best_attributes/divorce_observations-GaussianMixture-ANY.pkl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/best_attributes/divorce_observations-GaussianMixture.pkl" afterPath="$PROJECT_DIR$/best_attributes/divorce_observations-GaussianMixture.pkl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/best_attributes/lendingclub_observations-GaussianRandomProjection.pkl" afterPath="$PROJECT_DIR$/best_attributes/lendingclub_observations-GaussianRandomProjection.pkl" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +133,7 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
+            <state relative-caret-position="1853">
               <caret line="117" column="0" lean-forward="false" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
@@ -24,21 +142,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Anaconda2/Lib/site-packages/pandas/core/indexes/base.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="3079" column="0" lean-forward="false" selection-start-line="3079" selection-start-column="0" selection-end-line="3079" selection-end-column="0" />
+      <file leaf-file-name="PCA-MLPClassifier-random_state-time.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/divorce_tables/PCA-MLPClassifier-random_state-time.csv">
+          <provider selected="true" editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
+              <column index="0" width="100" />
+              <column index="1" width="100" />
+              <column index="2" width="100" />
+            </state>
+          </provider>
+          <provider editor-type-id="csv-text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="kmeans_clustering.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kmeans_clustering.py">
+      <file leaf-file-name="gaussian_mixture.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Anaconda2/Lib/site-packages/sklearn/mixture/gaussian_mixture.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="6834">
+              <caret line="410" column="0" lean-forward="false" selection-start-line="410" selection-start-column="0" selection-end-line="410" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="expectation_maximization.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/expectation_maximization.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -46,34 +181,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="numeric.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Anaconda2/Lib/site-packages/numpy/core/numeric.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="500" column="0" lean-forward="false" selection-start-line="500" selection-start-column="0" selection-end-line="500" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PCA-0-vs-1-reduction.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lendingclub_observations/PCA-0-vs-1-reduction.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PCA-0-vs-2-reduction.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lendingclub_observations/PCA-0-vs-2-reduction.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="extmath.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Anaconda2/Lib/site-packages/sklearn/utils/extmath.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="2720">
               <caret line="172" column="0" lean-forward="false" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
               <folding />
             </state>
@@ -90,21 +201,55 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="comparison_generation.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/comparison_generation.py">
+      <file leaf-file-name="path.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Anaconda2/Lib/site-packages/matplotlib/path.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="243" column="79" lean-forward="false" selection-start-line="243" selection-start-column="79" selection-end-line="243" selection-end-column="79" />
+            <state relative-caret-position="4301">
+              <caret line="264" column="0" lean-forward="false" selection-start-line="264" selection-start-column="0" selection-end-line="264" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_base.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Anaconda2/Lib/site-packages/sklearn/neural_network/_base.py">
+      <file leaf-file-name="ICA-KMEANS-MLPClassifier-random_state-time.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lendingclub_tables/ICA-KMEANS-MLPClassifier-random_state-time.csv">
+          <provider selected="true" editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
+              <column index="0" width="100" />
+              <column index="1" width="100" />
+              <column index="2" width="100" />
+            </state>
+          </provider>
+          <provider editor-type-id="csv-text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ICA-EM-MLPClassifier-random_state-time.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lendingclub_tables/ICA-EM-MLPClassifier-random_state-time.csv">
+          <provider selected="true" editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
+              <column index="0" width="100" />
+              <column index="1" width="100" />
+              <column index="2" width="100" />
+            </state>
+          </provider>
+          <provider editor-type-id="csv-text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="comparison_generation.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/comparison_generation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="168" column="0" lean-forward="false" selection-start-line="168" selection-start-column="0" selection-end-line="168" selection-end-column="0" />
+            <state relative-caret-position="178">
+              <caret line="489" column="0" lean-forward="false" selection-start-line="489" selection-start-column="0" selection-end-line="489" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -157,6 +302,9 @@
       <replace>rca_</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -178,10 +326,12 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="890" />
+    <option name="x" value="373" />
+    <option name="y" value="141" />
     <option name="width" value="1037" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -197,6 +347,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -209,9 +360,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Unsupervised-Learning-and-Dimensionality-Reduction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Unsupervised-Learning-and-Dimensionality-Reduction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="divorce_tables" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -358,19 +522,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="890" y="0" width="1037" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="373" y="141" width="1037" height="1047" extended-state="0" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32321253" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37033084" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37033084" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43290892" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -378,6 +540,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -427,67 +590,22 @@
           <line>32</line>
           <option name="timeStamp" value="99" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>117</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/comparison_generation.py</url>
+          <line>488</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="115" />
+      <option name="time" value="117" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-n_components-2-0-vs-1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-n_components-4-0-vs-1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/divorce_observations/ANY-GaussianMixture-n_components-5-0-vs-1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-2-0-vs-1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-2-0-vs-2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-2-0-vs-3.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-n_components-2-1-vs-3.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/divorce_observations/ICA-GaussianMixture-0-vs-1-reduction.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/divorce_observations/GaussianMixture-0-vs-1-reduction.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/divorce_observations/GaussianMixture-0-vs-2-reduction.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/divorce_observations/GaussianMixture-0-vs-3-reduction.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/divorce_observations/PCA-GaussianMixture-0-vs-1-reduction.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -637,15 +755,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda2/Lib/site-packages/sklearn/utils/extmath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="172" column="0" lean-forward="false" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -653,7 +762,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="168" column="0" lean-forward="false" selection-start-line="168" selection-start-column="0" selection-end-line="168" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -667,19 +775,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/neural_network.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" column="45" lean-forward="false" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Anaconda2/Lib/site-packages/numpy/core/numeric.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="500" column="0" lean-forward="false" selection-start-line="500" selection-start-column="0" selection-end-line="500" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -693,9 +792,158 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Anaconda2/Lib/site-packages/pandas/core/indexes/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="3079" column="0" lean-forward="false" selection-start-line="3079" selection-start-column="0" selection-end-line="3079" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lendingclub_tables/RCA-MLPClassifier-random_state-time.csv">
+      <provider selected="true" editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
+          <column index="0" width="100" />
+          <column index="1" width="100" />
+          <column index="2" width="100" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lendingclub_tables/RCA-KMEANS-MLPClassifier-random_state-time.csv">
+      <provider selected="true" editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
+          <column index="0" width="100" />
+          <column index="1" width="100" />
+          <column index="2" width="100" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lendingclub_tables/RCA-EM-MLPClassifier-random_state-time.csv">
+      <provider selected="true" editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
+          <column index="0" width="100" />
+          <column index="1" width="100" />
+          <column index="2" width="100" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lendingclub_tables/PCA-MLPClassifier-random_state-time.csv">
+      <provider selected="true" editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
+          <column index="0" width="100" />
+          <column index="1" width="100" />
+          <column index="2" width="100" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lendingclub_tables/PCA-KMEANS-MLPClassifier-random_state-time.csv">
+      <provider selected="true" editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
+          <column index="0" width="100" />
+          <column index="1" width="100" />
+          <column index="2" width="100" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lendingclub_tables/ICA-KMEANS-MLPClassifier-random_state-time.csv">
+      <provider selected="true" editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
+          <column index="0" width="100" />
+          <column index="1" width="100" />
+          <column index="2" width="100" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lendingclub_tables/ICA-EM-MLPClassifier-random_state-time.csv">
+      <provider selected="true" editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
+          <column index="0" width="100" />
+          <column index="1" width="100" />
+          <column index="2" width="100" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda2/Lib/site-packages/sklearn/mixture/gaussian_mixture.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6834">
+          <caret line="410" column="0" lean-forward="false" selection-start-line="410" selection-start-column="0" selection-end-line="410" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neural_network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="45" lean-forward="false" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda2/Lib/site-packages/matplotlib/path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4301">
+          <caret line="264" column="0" lean-forward="false" selection-start-line="264" selection-start-column="0" selection-end-line="264" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expectation_maximization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda2/Lib/site-packages/sklearn/utils/extmath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2720">
+          <caret line="172" column="0" lean-forward="false" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
+        <state relative-caret-position="1853">
           <caret line="117" column="0" lean-forward="false" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
@@ -703,18 +951,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Anaconda2/Lib/site-packages/pandas/core/indexes/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="3079" column="0" lean-forward="false" selection-start-line="3079" selection-start-column="0" selection-end-line="3079" selection-end-column="0" />
+    <entry file="file://$PROJECT_DIR$/divorce_tables/PCA-MLPClassifier-random_state-time.csv">
+      <provider selected="true" editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
+          <column index="0" width="100" />
+          <column index="1" width="100" />
+          <column index="2" width="100" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/comparison_generation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="243" column="79" lean-forward="false" selection-start-line="243" selection-start-column="79" selection-end-line="243" selection-end-column="79" />
+        <state relative-caret-position="178">
+          <caret line="489" column="0" lean-forward="false" selection-start-line="489" selection-start-column="0" selection-end-line="489" selection-end-column="0" />
           <folding />
         </state>
       </provider>
